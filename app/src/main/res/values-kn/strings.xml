@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ವ್ಯಾಕ್ಸಿ</string>
+    <string name="home_subtitle">ಜಾನುವಾರು ಆರೋಗ್ಯ ಎಚ್ಚರಿಕೆ</string>
+
+    <string name="nav_animals">ಪ್ರಾಣಿಗಳು</string>
+    <string name="nav_camps">ಶಿಬಿರಗಳು</string>
+    <string name="nav_disease">ರೋಗ</string>
+    <string name="nav_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+
+    <string name="action_register_animal">ಪ್ರಾಣಿಯನ್ನು ನೋಂದಾಯಿಸಿ</string>
+    <string name="action_add_camp">ಶಿಬಿರವನ್ನು ಸೇರಿಸಿ</string>
+    <string name="action_save">ಉಳಿಸಿ</string>
+    <string name="action_mark_done">ಪೂರ್ಣವೆಂದು ಗುರುತಿಸಿ</string>
+    <string name="action_send_report">ವರದಿ ಕಳುಹಿಸಿ</string>
+    <string name="action_pick_date">ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="ok">ಸರಿ</string>
+    <string name="cancel">ರದ್ದು</string>
+
+    <string name="empty_animals">ಇನ್ನೂ ಯಾವುದೇ ಪ್ರಾಣಿಗಳಿಲ್ಲ. ಮೊದಲನೆಯದನ್ನು ನೋಂದಾಯಿಸಲು + ಒತ್ತಿರಿ.</string>
+    <string name="empty_camps">ಯಾವುದೇ ಶಿಬಿರಗಳಿಲ್ಲ. ಸೇರಿಸಲು + ಒತ್ತಿರಿ.</string>
+    <string name="empty_reports">ಇನ್ನೂ ಯಾವುದೇ ರೋಗ ವರದಿಗಳಿಲ್ಲ.</string>
+
+    <string name="field_name">ಹೆಸರು / ಟ್ಯಾಗ್</string>
+    <string name="field_species">ಜಾತಿ</string>
+    <string name="field_breed">ತಳಿ</string>
+    <string name="field_age_months">ವಯಸ್ಸು (ತಿಂಗಳು)</string>
+    <string name="field_gender">ಲಿಂಗ</string>
+    <string name="field_notes">ಟಿಪ್ಪಣಿಗಳು</string>
+    <string name="field_animal">ಪ್ರಾಣಿ</string>
+    <string name="field_camp_title">ಶಿಬಿರದ ಶೀರ್ಷಿಕೆ</string>
+    <string name="field_location">ಸ್ಥಳ</string>
+    <string name="field_vaccines_offered">ಲಭ್ಯವಿರುವ ಲಸಿಕೆಗಳು</string>
+    <string name="field_date">ದಿನಾಂಕ</string>
+
+    <string name="age_months">ವಯಸ್ಸು: %1$d ತಿಂಗಳು</string>
+    <string name="due_on">ಬಾಕಿ: %1$s</string>
+    <string name="given_on">ನೀಡಲಾಗಿದೆ: %1$s</string>
+
+    <string name="vaccination_history">ಲಸಿಕಾ ವೇಳಾಪಟ್ಟಿ ಮತ್ತು ಇತಿಹಾಸ</string>
+    <string name="tap_to_take_photo">ಫೋಟೋ ತೆಗೆಯಲು ಕೆಳಗೆ ಒತ್ತಿರಿ</string>
+    <string name="take_photo">ಫೋಟೋ ತೆಗೆಯಿರಿ</string>
+
+    <string name="report_choose_animal">ಪ್ರಾಣಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="report_symptoms">ಲಕ್ಷಣಗಳು</string>
+    <string name="report_history">ಹಿಂದಿನ ವರದಿಗಳು</string>
+    <string name="report_sent_title">ವರದಿ ಕಳುಹಿಸಲಾಗಿದೆ</string>
+    <string name="report_sent_body">ಸ್ಥಳೀಯ ಪಶುವೈದ್ಯರಿಗೆ ವರದಿ ಮಾಡಲಾಗಿದೆ (ಸಿಮ್ಯುಲೇಟೆಡ್). ಉಲ್ಲೇಖ: %1$s</string>
+
+    <string name="settings_language">ಭಾಷೆ</string>
+    <string name="settings_about">ಬಗ್ಗೆ</string>
+    <string name="settings_about_body">ಗ್ರಾಮ-ವ್ಯಾಕ್ಸಿ ಲಸಿಕೆ ಮತ್ತು ಶಿಬಿರ ದಿನಾಂಕಗಳನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡುತ್ತದೆ. ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.</string>
+</resources>
